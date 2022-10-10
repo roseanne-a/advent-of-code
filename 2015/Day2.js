@@ -30,4 +30,3 @@ function howMuchRibbon(gifts) {
   }
   return totalRibbon;
 }
-console.log(howMuchRibbon(data.gifts));

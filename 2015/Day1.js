@@ -23,5 +23,3 @@ function enterTheBasement(instructions) {
   }
   return "Never enters the basement!";
 }
-
-console.log(enterTheBasement(data.instructions));
