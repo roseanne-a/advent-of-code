@@ -30,3 +30,5 @@ function howMuchRibbon(gifts) {
   }
   return totalRibbon;
 }
+
+howMuchPaper(data);
