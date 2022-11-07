@@ -57,7 +57,7 @@ function santaDelivery(directions) {
       }
       currentLocation = newLocation;
     } else {
-      return "There is a invalid direction.";
+      return "There is an invalid direction.";
     }
   }
   return mapping.length;
